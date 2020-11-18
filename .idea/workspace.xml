@@ -12,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="1kSCXIxzIaubNzqrZljWIO8vA6H" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/dev" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -32,6 +33,23 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605684649241</updated>
-      <workItem from="1605684651913" duration="3439000" />
+      <workItem from="1605684651913" duration="11580000" />
+      <workItem from="1605704618067" duration="538000" />
     </task>
     <task id="LOCAL-00001" summary="minor change">
       <created>1605685078979</created>
@@ -91,11 +110,36 @@
       <option name="project" value="LOCAL" />
       <updated>1605689082200</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="modifiying fallback and package names.">
+      <created>1605689614108</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605689614108</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="minor change" />
@@ -107,6 +151,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="modifiying fallback and package names." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1605692477295">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605692477295" />
     <state x="1301" y="417" key="Github.ShareDialog" timestamp="1605684869206">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -115,13 +163,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1260" y="139" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605684877373" />
-    <state x="1031" y="250" key="Vcs.Push.Dialog.v2" timestamp="1605689091356">
+    <state width="1897" height="207" key="GridCell.Tab.0.bottom" timestamp="1605699717919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1031" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605689091356" />
-    <state x="1256" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605684914921">
+    <state width="1897" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605699717919" />
+    <state width="1897" height="207" key="GridCell.Tab.0.center" timestamp="1605699717919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1256" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605684914921" />
+    <state width="1897" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605699717919" />
+    <state width="1897" height="207" key="GridCell.Tab.0.left" timestamp="1605699717919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605699717919" />
+    <state width="1897" height="207" key="GridCell.Tab.0.right" timestamp="1605699717919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605699717919" />
+    <state x="1031" y="250" key="Vcs.Push.Dialog.v2" timestamp="1605689645889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1031" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605689645889" />
+    <state x="1256" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605699595935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1256" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605699595935" />
   </component>
 </project>

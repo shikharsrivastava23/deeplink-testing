@@ -19,8 +19,8 @@ var app = express();
 app.get(
   '/deeplink',
   deeplink({
-    fallback: 'http://cupsapp.com',
-    android_package_name: 'com.citylifeapps.cups',
+    fallback: 'https://explore.mapmyindia.com/',
+    android_package_name: 'com.prayrntest',
     ios_store_link:
       'https://itunes.apple.com/us/app/cups-unlimited-coffee/id556462755?mt=8&uo=4',
   })

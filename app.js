@@ -10,3 +10,18 @@ const server = http.createServer((req, res) => {
 server.listen(port,() => {
   console.log(`Server running at port `+port);
 });
+
+var express = require('express');
+var deeplink = require('node-deeplink');
+
+var app = express();
+
+app.get(
+  '/deeplink',
+  deeplink({
+    fallback: 'https://cupsapp.com',
+    android_package_name: 'com.citylifeapps.cups',
+    ios_store_link:
+      'https://itunes.apple.com/us/app/cups-unlimited-coffee/id556462755?mt=8&uo=4',
+  })
+);

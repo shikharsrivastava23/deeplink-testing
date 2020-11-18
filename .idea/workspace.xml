@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="842da22d-a196-41c0-9307-5d1fed80ca37" name="Default Changelist" comment="running install">
+    <list default="true" id="842da22d-a196-41c0-9307-5d1fed80ca37" name="Default Changelist" comment="modifiying fallback and package names.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
@@ -40,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605684649241</updated>
-      <workItem from="1605684651913" duration="2898000" />
+      <workItem from="1605684651913" duration="3439000" />
     </task>
     <task id="LOCAL-00001" summary="minor change">
       <created>1605685078979</created>
@@ -84,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605688829753</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="modifiying fallback and package names.">
+      <created>1605689082200</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605689082200</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +103,8 @@
     <MESSAGE value="Adding dependencies" />
     <MESSAGE value="Adding node version in package.json" />
     <MESSAGE value="running install" />
-    <option name="LAST_COMMIT_MESSAGE" value="running install" />
+    <MESSAGE value="modifiying fallback and package names." />
+    <option name="LAST_COMMIT_MESSAGE" value="modifiying fallback and package names." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1301" y="417" key="Github.ShareDialog" timestamp="1605684869206">
@@ -107,10 +115,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1260" y="139" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605684877373" />
-    <state x="1031" y="250" key="Vcs.Push.Dialog.v2" timestamp="1605688831270">
+    <state x="1031" y="250" key="Vcs.Push.Dialog.v2" timestamp="1605689091356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1031" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605688831270" />
+    <state x="1031" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605689091356" />
     <state x="1256" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605684914921">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

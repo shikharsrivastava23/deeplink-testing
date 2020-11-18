@@ -20,9 +20,6 @@ app.get(
   '/deeplink',
   deeplink({
     fallback: 'https://explore.mapmyindia.com/',
-    android_package_name: 'com.prayrntest',
-    ios_store_link:
-      'https://itunes.apple.com/us/app/cups-unlimited-coffee/id556462755?mt=8&uo=4',
   })
 );
 

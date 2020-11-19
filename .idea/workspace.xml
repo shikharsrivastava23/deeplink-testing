@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="842da22d-a196-41c0-9307-5d1fed80ca37" name="Default Changelist" comment="Testing deeplink script">
+    <list default="true" id="842da22d-a196-41c0-9307-5d1fed80ca37" name="Default Changelist" comment="Fixing library usage.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
@@ -78,7 +78,7 @@
       <updated>1605684649241</updated>
       <workItem from="1605684651913" duration="11580000" />
       <workItem from="1605704618067" duration="1321000" />
-      <workItem from="1605766950977" duration="1457000" />
+      <workItem from="1605766950977" duration="2687000" />
     </task>
     <task id="LOCAL-00001" summary="minor change">
       <created>1605685078979</created>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605767036239</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Fixing library usage.">
+      <created>1605773397176</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605773397176</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +199,8 @@
     <MESSAGE value="modifiying fallback and package names." />
     <MESSAGE value="Refreshing everything." />
     <MESSAGE value="Testing deeplink script" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing deeplink script" />
+    <MESSAGE value="Fixing library usage." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing library usage." />
   </component>
   <component name="WindowStateProjectService">
     <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1605722738590">

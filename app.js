@@ -21,6 +21,7 @@ app.get(
   deeplink({
     fallback: 'https://explore.mapmyindia.com/',
     android_package_name: 'com.prayerrntesting',
+    ios_store_link: 'https://apps.apple.com/in/app/mapmyindia-move-maps/id723492531',
   })
 );
 

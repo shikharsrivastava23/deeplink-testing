@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="842da22d-a196-41c0-9307-5d1fed80ca37" name="Default Changelist" comment="Refreshing everything.">
+    <list default="true" id="842da22d-a196-41c0-9307-5d1fed80ca37" name="Default Changelist" comment="Testing deeplink script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
@@ -78,7 +78,7 @@
       <updated>1605684649241</updated>
       <workItem from="1605684651913" duration="11580000" />
       <workItem from="1605704618067" duration="1321000" />
-      <workItem from="1605766950977" duration="69000" />
+      <workItem from="1605766950977" duration="1457000" />
     </task>
     <task id="LOCAL-00001" summary="minor change">
       <created>1605685078979</created>
@@ -143,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605705189050</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Testing deeplink script">
+      <created>1605767036239</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605767036239</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +191,8 @@
     <MESSAGE value="running install" />
     <MESSAGE value="modifiying fallback and package names." />
     <MESSAGE value="Refreshing everything." />
-    <option name="LAST_COMMIT_MESSAGE" value="Refreshing everything." />
+    <MESSAGE value="Testing deeplink script" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing deeplink script" />
   </component>
   <component name="WindowStateProjectService">
     <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1605722738590">
@@ -215,10 +223,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1897" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605699717919" />
-    <state x="1031" y="250" key="Vcs.Push.Dialog.v2" timestamp="1605705195982">
+    <state x="1031" y="250" key="Vcs.Push.Dialog.v2" timestamp="1605767039917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1031" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605705195982" />
+    <state x="1031" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605767039917" />
     <state x="1256" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605699595935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

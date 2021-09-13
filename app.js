@@ -21,7 +21,7 @@ app.get(
   deeplink({
     fallback: 'https://pray.mapmyindia.com/',
     android_package_name: 'com.mmi.pray',
-    ios_store_link: 'https://apps.apple.com/in/app/mapmyindia-move-maps/id723492531',
+    ios_store_link: 'https://apps.apple.com/in/app/pray-by-mapmyindia/id1543341726',
   })
 );
 
